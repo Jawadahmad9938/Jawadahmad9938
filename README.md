@@ -18,7 +18,7 @@
 ---
 
 ## 💡 About Me  
-💡 I’m **Jawad Ahmad** — a passionate **MERN Stack Developer** and the founder of **GoatNova**, a creative digital agency helping brands grow online.  
+💡 I’m **Jawad Ahmad** a passionate **MERN Stack Developer** and the founder of **GoatNova**, a creative digital agency helping brands grow online.  
 
 I craft **sleek user interfaces, scalable web apps, and modern digital experiences** that don’t just look good but perform flawlessly.  
 From **responsive frontends** to **robust backends**, I focus on **clean code, performance, and user-first design**.  
